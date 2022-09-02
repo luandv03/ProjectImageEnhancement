@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #24303C;
+    --primary-color: #171310;
     --primary-text-color: #fff;
     --secondary-text-color: #70777F;
     --secondary-color: #fff;
@@ -23,10 +23,13 @@ html {
 
 .col {
     background-clip: content-box;
-    margin-top: 8px;
-    margin-bottom: 8px;
 }
-
+.none{
+    display: none;
+}
+.block{
+    display: block;
+}
 
 
 
