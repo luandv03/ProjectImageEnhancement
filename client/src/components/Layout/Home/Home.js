@@ -5,7 +5,6 @@ import classNames from 'classnames/bind';
 import { ReactCompareSlider, ReactCompareSliderImage } from 'react-compare-slider';
 
 import styles from './Home.module.scss';
-import './ResponHome.module.scss';
 import img1 from '../../../assets/img/img1.png';
 import img2 from '../../../assets/img/img2.png';
 import logo from '../../../assets/img/logo3.png'
